@@ -3,3 +3,4 @@ good bad better
 i have complieted my edu
 deone bacs
 masters 2021
+logo alignmenet center
